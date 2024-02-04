@@ -1,0 +1,11 @@
+C:\Users\igor1\Desktop\my_Projiects\DesignPaterns\webApi\FormulaOne.Entities\obj\Debug\net8.0\FormulaOne.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igor1\Desktop\my_Projiects\DesignPaterns\webApi\FormulaOne.Entities\obj\Debug\net8.0\FormulaOne.Entities.AssemblyInfoInputs.cache
+C:\Users\igor1\Desktop\my_Projiects\DesignPaterns\webApi\FormulaOne.Entities\obj\Debug\net8.0\FormulaOne.Entities.AssemblyInfo.cs
+C:\Users\igor1\Desktop\my_Projiects\DesignPaterns\webApi\FormulaOne.Entities\obj\Debug\net8.0\FormulaOne.Entities.csproj.CoreCompileInputs.cache
+C:\Users\igor1\Desktop\my_Projiects\DesignPaterns\webApi\FormulaOne.Entities\bin\Debug\net8.0\FormulaOne.Entities.deps.json
+C:\Users\igor1\Desktop\my_Projiects\DesignPaterns\webApi\FormulaOne.Entities\bin\Debug\net8.0\FormulaOne.Entities.dll
+C:\Users\igor1\Desktop\my_Projiects\DesignPaterns\webApi\FormulaOne.Entities\bin\Debug\net8.0\FormulaOne.Entities.pdb
+C:\Users\igor1\Desktop\my_Projiects\DesignPaterns\webApi\FormulaOne.Entities\obj\Debug\net8.0\FormulaOne.Entities.dll
+C:\Users\igor1\Desktop\my_Projiects\DesignPaterns\webApi\FormulaOne.Entities\obj\Debug\net8.0\refint\FormulaOne.Entities.dll
+C:\Users\igor1\Desktop\my_Projiects\DesignPaterns\webApi\FormulaOne.Entities\obj\Debug\net8.0\FormulaOne.Entities.pdb
+C:\Users\igor1\Desktop\my_Projiects\DesignPaterns\webApi\FormulaOne.Entities\obj\Debug\net8.0\ref\FormulaOne.Entities.dll
